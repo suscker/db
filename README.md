@@ -164,4 +164,4 @@
 
 ## Схема базы данных
 
-<img width="1315" height="985" alt="Database scheme" src="" />
+<img width="1315" height="985" alt="Database scheme" src="https://github.com/suscker/db/blob/master/db.png" />
